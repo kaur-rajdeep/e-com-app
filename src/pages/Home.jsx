@@ -1,6 +1,6 @@
 import { useTheme } from '@emotion/react';
 import { ShoppingCartSharp } from '@mui/icons-material';
-import { Grid, Container, Card, CardMedia, CardContent, Typography, Rating, CardActions } from '@mui/material';
+import { Grid, Container, Card, CardMedia, CardContent, Typography, Rating, CardActions, Divider } from '@mui/material';
 import React from 'react'
 import {Button} from '@mui/material';
 // import { useState } from 'react';
